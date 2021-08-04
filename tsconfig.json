@@ -1,0 +1,29 @@
+{
+  "defaultSeverity": "warning",
+  "compilerOptions": {
+    "outDir": "dist",
+    "module": "esnext",
+    "target": "esnext",
+    "lib": ["esnext", "dom", "dom.iterable"],
+    "sourceMap": true,
+    "baseUrl": "src",
+    "jsx": "react-jsx",
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "forceConsistentCasingInFileNames": true,
+    "noUnusedLocals": false,
+    "allowJs": true,
+    "skipLibCheck": true,
+    "experimentalDecorators": true,
+    "noImplicitAny": false,
+    "strict": false,
+    "alwaysStrict": false,
+    "esModuleInterop": true,
+    "noFallthroughCasesInSwitch": true,
+    "isolatedModules": true,
+    "noEmit": true
+  },
+  "exclude": ["node_modules", "cypress", "src/uikit", "build", "dist", "scripts", "webpack", "jest"],
+  "include": ["./src"]
+}

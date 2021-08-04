@@ -1,0 +1,89 @@
+{
+  "name": "Mangoswap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": [
+    "pancake",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "OKT Token",
+      "symbol": "WOKT",
+      "address": "0x7c2e817E1E9d40C022c2f08804d3e67D07526f83",
+      "chainId": 65,
+      "decimals": 18,
+      "logoURI": "/images/coins/okt.png"
+    },
+    {
+      "name": "OKB Token",
+      "symbol": "OKB",
+      "address": "0xDa9d14072Ef2262c64240Da3A93fea2279253611",
+      "chainId": 65,
+      "decimals": 10,
+      "logoURI": "/images/coins/okt.png"
+    },
+    {
+      "name": "USDT Token",
+      "symbol": "USDT",
+      "address": "0x5976edb29D347B51695b914cC400f91873657336",
+      "chainId": 65,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "address": "0x997574B085C61643D8F6249A73c70b9F5a026F96",
+      "chainId": 65,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "DAI Token",
+      "symbol": "DAI",
+      "address": "0xe9Db8594a66F11882fefA546A1f676C769162A5C",
+      "chainId": 65,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aiswap/assets/main/OKExChain/0x21cde7e32a6caf4742d00d44b07279e7596d26b9.png"
+    },
+    {
+      "name": "KNS Token",
+      "symbol": "KNS",
+      "address": "0x14d768a9fC75A089Fe97A0aC9b0e26D9865c36D8",
+      "chainId": 65,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "MGS Token",
+      "symbol": "MGS",
+      "address": "0x2B00651d5E77f7178f14dc0dF3083bB8003F03F0",
+      "chainId": 66,
+      "decimals": 18,
+      "logoURI": "" 
+    },
+    {
+      "name": "USDT Token",
+      "symbol": "USDT",
+      "address": "0x4bDccd988994816163dF2bC48A34244e6e5315EC",
+      "chainId": 66,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "address": "0x51FEf093EDA4f628DB2b84ca4377dC5fe048A799",
+      "chainId": 66,
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ]
+}
