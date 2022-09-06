@@ -67,7 +67,7 @@ export default function PoolFinderPool() {
           title={intl('pool.liquidity')}
           description={intl('pool.addLiquidityHint')}
         >
-          <Button style={{ backgroundColor: '#FD9F09', boxShadow: 'none'}} id="join-pool-button" mb="16px"  as={Link} to="/add">
+          <Button style={{ backgroundColor: '#438bf5', boxShadow: 'none'}} id="join-pool-button" mb="16px"  as={Link} to="/add">
             {intl('pool.addLiquidity')}
           </Button>
         </PageHeader>

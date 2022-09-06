@@ -62,7 +62,7 @@ const StyledRangeInput = styled.input<{ size: number }>`
   }
 
   &::-webkit-slider-runnable-track {
-    background: rgba(253, 159, 9, 0.5);
+    background: rgba(67, 139, 245, 0.3);
     height: 2px;
   }
 

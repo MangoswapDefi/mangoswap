@@ -99,7 +99,7 @@ const OKTBalance = ({ currencyBalance, currency }) => {
 export default PanelFooter
 
 const BalanceWarpper = styled.div`
-background: rgba(253, 158, 8, .2);
+background: rgba(67, 139, 245, .2);
 border-radius: 26px;
 padding: 3px 12px;
 color: ${({ theme }) => theme.colors.text};

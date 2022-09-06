@@ -31,8 +31,8 @@ export default Nav
 const StyledNav = styled.div`
   margin-bottom: 40px;
   margin-top: 0px;
-  background: #FFEDCF;
-  border: 1px solid #FFDA9E;
+  background: rgba(67, 139, 245, 0.2);
+  border: 1px solid rgba(67, 139, 245, 0.8);
   box-sizing: border-box;
   border-radius: 6px;
   padding: 5px 10px;

@@ -31,7 +31,7 @@ const StyledPanel = styled.div<{ isPushed: boolean; showMenu: boolean; isMobile:
   ${({ isPushed }) => !isPushed && "white-space: nowrap;"};
 
   ${({ theme }) => theme.mediaQueries.nav} {
-    border-right: 2px solid rgba(255, 152, 152, 0.1);
+    border-right: 2px solid rgba(67, 139, 245, 0.1);
     /* width: ${({ isPushed }) => `${isPushed ? SIDEBAR_WIDTH_FULL : SIDEBAR_WIDTH_REDUCED}px`}; */
     // &::after{
     //   content: "";

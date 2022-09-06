@@ -11,7 +11,7 @@ const Container = styled.div`
   ${({ theme }) => theme.mediaQueries.xs} {
     background-size: auto;
   }
-  background: url('/images/swapBg.svg') no-repeat center center;
+  //background: url('/images/swapBg.svg') no-repeat center center;
   
   ${({ theme }) => theme.mediaQueries.lg} {
     min-height: 90vh;

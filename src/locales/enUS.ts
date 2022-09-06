@@ -237,7 +237,7 @@ const locale = {
   'pools.withdrawTokens': 'Withdraw {typeParam} Tokens',
   'pools.input': 'input',
   'pools.addToMetamask': 'Add to Metamask',
-  'pools.mangoPOOLS': 'Mango Pools',
+  'pools.mangoPOOLS': 'TelegramX Pools',
   'pools.mangoPOOLSInfo': 'Stake OKT to earn new tokens.You can unstake at any time.Rewards are calculated per block.',
 
   'ifo.applyFor': 'Apply for',

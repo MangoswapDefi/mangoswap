@@ -24,11 +24,11 @@ const Container = styled.div`
 `;
 
 export const MenuTag = styled.div`
-  background: #ffecce;
+  background: rgba(67, 139, 245, 0.2);
   font-size: 12px;
   padding: 4px;
   border-radius: 5px;
-  color: #ffa307;
+  color: rgba(67, 139, 245, 0.9);
 `
 
 const PanelBody: React.FC<Props> = ({ isPushed, pushNav, isMobile, links }) => {
